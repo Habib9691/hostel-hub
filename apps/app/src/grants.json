@@ -1,0 +1,602 @@
+[
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Hostel",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Meal",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Meal",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Meal",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Meal",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Meal",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Meal",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Meal",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Meal",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Meal",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Meal",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Meal",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Meal",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Meal",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Meal",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Meal",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Meal",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Meal",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Meal",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Meal",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Meal",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "Meal",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "Meal",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "Meal",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "Meal",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "Meal",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MonthlySummary",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "MonthlySummary",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "MonthlySummary",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "MonthlySummary",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MonthlySummary",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MonthlySummary",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "MonthlySummary",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "MonthlySummary",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "MonthlySummary",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MonthlySummary",
+    "action": "create:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MonthlySummary",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "MonthlySummary",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "MonthlySummary",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "MonthlySummary",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MonthlySummary",
+    "action": "update:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MonthlySummary",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "MonthlySummary",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "MonthlySummary",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "MonthlySummary",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MonthlySummary",
+    "action": "delete:any",
+    "attributes": "*"
+  },
+  {
+    "role": "admin",
+    "resource": "MonthlySummary",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "editor",
+    "resource": "MonthlySummary",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "manager",
+    "resource": "MonthlySummary",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "superAdmin",
+    "resource": "MonthlySummary",
+    "action": "read:any",
+    "attributes": "*"
+  },
+  {
+    "role": "user",
+    "resource": "MonthlySummary",
+    "action": "read:any",
+    "attributes": "*"
+  }
+]
